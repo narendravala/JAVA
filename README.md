@@ -1,2 +1,2 @@
-# Geeks
+# JAVA
 Practice
